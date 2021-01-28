@@ -13,4 +13,5 @@ function sumDigits(num) {
       }
   }
   return sum;
+  
 }
